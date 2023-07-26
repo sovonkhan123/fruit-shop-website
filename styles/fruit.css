@@ -1,3 +1,5 @@
-.image {
-    background-image: url("../images/banner1.png");
+@media screen and (min-width:640px) {
+    .five .four {
+        display: inline-block;
+    }
 }
