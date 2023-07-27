@@ -1,9 +1,0 @@
-.new-img {
-    background-image: url('../images/team.png');
-}
-
-@media screen and (min-width:640px) {
-    .five .four {
-        display: inline-block;
-    }
-}
